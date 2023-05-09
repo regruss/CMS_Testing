@@ -8,4 +8,4 @@ PyPDF2==3.0.1
 pytesseract==0.3.10
 spacy==3.5.2
 streamlit==1.22.0
-pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
+pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
